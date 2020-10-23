@@ -79,4 +79,4 @@ async def start():
     player.start()
 
 
-client.run('NjYwNDMyMzY0MzYyNjYxOTAw.Xg026g.LH5CJMRGr8imziqKrZ44JZsoRiM')
+client.run('')
